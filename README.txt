@@ -1,0 +1,1 @@
+Double click the jar file to run the program
